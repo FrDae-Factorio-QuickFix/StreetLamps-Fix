@@ -1,0 +1,11 @@
+{
+    "name": "StreetLamps",
+    "version": "1.0.0",
+    "title": "Street Lamps",
+    "author": "bluefairygames",
+    "contact": "dev@bluefairygames.com",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "This mod adds street lamps, electric poles that light the area as you lay electricity lines. There are street lamps corresponding to each type of electric pole, including substations. Each street lamp's energy consumption and lit radius increase as the pole size increases. The street lamps are unlocked once Optics and each corresponding Electric Energy Distribution technology is researched."
+}

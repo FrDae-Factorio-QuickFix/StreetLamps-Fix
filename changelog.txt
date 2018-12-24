@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 24. 12. 2018
+  Initial release
+  TODO:
+    - Add updated art assets for each street lamp type
+    - Add localisation more than English
+    - Add mod user settings to adjust lamp intensity and recipes
+    - Complete README
+---------------------------------------------------------------------------------------------------
