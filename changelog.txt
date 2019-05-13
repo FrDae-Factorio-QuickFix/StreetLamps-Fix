@@ -7,4 +7,13 @@ Date: 24. 12. 2018
     - Add localisation more than English
     - Add mod user settings to adjust lamp intensity and recipes
     - Complete README
+
+Version: 1.0.1
+Date: 13. 05. 2019
+  Update for 0.17.x
+  TODO:
+    - All from previous version
+    - Fix issues with blueprints where the street lamps don't recognize themselves
+    - Look into issues with Picker Extended mod
+    - Correct map issues when mod is enabled/disabled
 ---------------------------------------------------------------------------------------------------
