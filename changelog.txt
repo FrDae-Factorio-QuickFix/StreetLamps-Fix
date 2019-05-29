@@ -16,4 +16,10 @@ Date: 13. 05. 2019
     - Fix issues with blueprints where the street lamps don't recognize themselves
     - Look into issues with Picker Extended mod
     - Correct map issues when mod is enabled/disabled
+
+Version: 1.0.2
+Date: 28. 05. 2019
+  Changed light intensities and sizes
+  TODO:
+    - All from previous version
 ---------------------------------------------------------------------------------------------------
