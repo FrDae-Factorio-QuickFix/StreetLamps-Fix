@@ -16,7 +16,7 @@ hiddenLampEntity.collision_box = {{-0.0, -0.0}, {0.0, 0.0}}
 hiddenLampEntity.selection_box = {{-0.0, -0.0}, {0.0, 0.0}}
 hiddenLampEntity.selectable_in_game = false
 hiddenLampEntity.energy_usage_per_tick = "10KW"
-hiddenLampEntity.light = {intensity = 0.75, size = 45}
+hiddenLampEntity.light = {intensity = 0.9, size = 50}
 
 -- Add definitions to game
 data:extend{hiddenLampEntity}
