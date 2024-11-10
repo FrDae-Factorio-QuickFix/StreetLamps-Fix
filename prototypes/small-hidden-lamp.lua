@@ -1,6 +1,6 @@
 blank =
 {
-     filename = "__StreetLamps__/graphics/transparent_pixel.png",
+     filename = "__StreetLamps_Fix__/graphics/transparent_pixel.png",
      priority = "extra-high",
      width = 1,
      height = 1
