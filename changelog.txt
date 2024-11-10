@@ -1,25 +1,62 @@
 ---------------------------------------------------------------------------------------------------
-Version: 1.0.0
-Date: 24. 12. 2018
-  Initial release
+Version: 1.18.4
+Date: 02. 11. 2024
+  Info:
+    - Updated by Fr_Dae
+  Changes:
+    - quickfix, "," missing
+---------------------------------------------------------------------------------------------------
+Version: 1.18.3
+Date: 02. 11. 2024
+  Info:
+    - Updated by Fr_Dae
+  Changes:
+    - 2.0 update
+---------------------------------------------------------------------------------------------------
+Version: 1.18.2
+  Info:
+    - Updated by Fr_Dae
+  Changes:
+    - missing update
+---------------------------------------------------------------------------------------------------
+Version: 1.18.1
+Date: 02. 07. 2021
+  Change:
+    - 1.1
+    - commante /migrations/000_InitializeSavedRecipes.lua lign 13 to 19
+---------------------------------------------------------------------------------------------------
+Version: 1.18.0
+Date: 29. 02. 2020
+  Change:
+    - Updated version numbering system to better reflect associated Factorio versions.
+    - Adjusted lamp minability to better align with that of associated poles.
   TODO:
-    - Add updated art assets for each street lamp type
-    - Add localisation more than English
-    - Add mod user settings to adjust lamp intensity and recipes
-    - Complete README
-
+    - All from previous version
+---------------------------------------------------------------------------------------------------
+Version: 1.0.2
+Date: 28. 05. 2019
+  Change:
+    - Changed light intensities and sizes
+  TODO:
+    - All from previous version
+---------------------------------------------------------------------------------------------------
 Version: 1.0.1
 Date: 13. 05. 2019
-  Update for 0.17.x
+  Change:
+    - Update for 0.17.x
   TODO:
     - All from previous version
     - Fix issues with blueprints where the street lamps don't recognize themselves
     - Look into issues with Picker Extended mod
     - Correct map issues when mod is enabled/disabled
-
-Version: 1.0.2
-Date: 28. 05. 2019
-  Changed light intensities and sizes
-  TODO:
-    - All from previous version
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 24. 12. 2018
+
+  Change:
+    - Initial release
+  TODO:
+    - Add updated art assets for each street lamp type
+    - Add localisation more than English
+    - Add mod user settings to adjust lamp intensity and recipes
+    - Complete README

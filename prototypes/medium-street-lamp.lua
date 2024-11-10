@@ -9,15 +9,25 @@ mediumStreetLampItem.place_result = "medium-street-lamp"
 local mediumStreetLampEntity = table.deepcopy(data.raw["electric-pole"]["medium-electric-pole"])
 
 mediumStreetLampEntity.name = "medium-street-lamp"
-mediumStreetLampEntity.minable = {hardness = 0.4, mining_time = 0.75, result = "medium-street-lamp"}
+mediumStreetLampEntity.minable = {mining_time = 0.2, result = "medium-street-lamp"}
 
 -- Recipe
 local recipe = table.deepcopy(data.raw.recipe["medium-electric-pole"])
 recipe.enabled = false
 recipe.name = "medium-street-lamp"
-recipe.ingredients = {{"copper-cable", 4},{"steel-plate", 4},{"small-lamp", 1},{"medium-electric-pole", 1}}
-recipe.result = "medium-street-lamp"
-recipe.result_count = 1
+recipe.ingredients = 
+{
+    {type = "item", name = "copper-cable", amount = 4},
+    {type = "item", name = "steel-plate", amount = 4},
+    {type = "item", name = "small-lamp", amount = 1},
+    {type = "item", name = "medium-electric-pole", amount = 1}
+}
+results = 
+{
+    {type = "item", name = "medium-street-lamp", amount = 1}
+} 
+-- recipe.result = "medium-street-lamp"
+-- recipe.result_count = 1
 
 -- Add definitions to game
 data:extend{mediumStreetLampItem, mediumStreetLampEntity, recipe}

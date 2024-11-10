@@ -1,11 +1,13 @@
 {
-    "name": "StreetLamps",
-    "version": "1.0.2",
-    "title": "Street Lamps",
-    "author": "bluefairygames",
+    "name": "StreetLamps_Fix",
+    "title": "💡Street Lamps",
+    "description": "This mod adds street lamps (electric poles that light the surrounding area).",
+
+    "author": "Fr_Dae bluefairygames",
     "contact": "dev@bluefairygames.com",
-    "homepage": "",
-    "factorio_version": "0.17",
-    "dependencies": ["base >= 0.16"],
-    "description": "This mod adds street lamps (electric poles that light the surrounding area)."
+    "homepage": "http://unionrolistes.fr",
+
+    "version": "1.18.4",
+    "factorio_version": "2.0",
+    "dependencies": ["base"]
 }
